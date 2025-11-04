@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+requests
+nbformat
+numpy
+scipy
+librosa
+openl3
+sentence-transformers
+chroma-client
+pinecone-client
+python-dotenv
